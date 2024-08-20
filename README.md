@@ -1,2 +1,2 @@
-# project1.0
+# Project1
 Project: Git and GitHub Workflow
